@@ -1,11 +1,3 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -15,8 +7,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbGxMD_SPXuY3TL4mFMTTlxBDsgRfJT47IirCVJn_I7k_vGzrAA&s");
 }
 
-.App-link {
-  color: #09d3ac;
+.form {
+  display: flex;
+  flex-direction: row;
 }
